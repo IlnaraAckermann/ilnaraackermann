@@ -1,11 +1,31 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
-   <a href="https://github.com/IlnaraAckermann">
-   <img height="180em" src="https://github-readme-stats-zeta-weld.vercel.app/api?username=IlnaraAckermann&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-zeta-weld.vercel.app/api/top-langs/?username=IlnaraAckermann&layout=compact&langs_count=6&theme=transparent"/>
+<div>
+<picture>
+<source
+  srcset="https://github-readme-stats-zeta-weld.vercel.app/api?username=IlnaraAckermann&show_icons=true&theme=highcontrast"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-weld.vercel.app/api?username=IlnaraAckermann&show_icons=true&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img  height="180em" src="https://github-readme-stats-zeta-weld.vercel.app/api?username=IlnaraAckermann&show_icons=true" />
+</picture>
 
+<picture>
+<source
+  srcset="https://github-readme-stats-zeta-weld.vercel.app/api/top-langs/?username=IlnaraAckermann&layout=compact&langs_count=6&theme=highcontrast"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-weld.vercel.app/api/top-langs/?username=IlnaraAckermann&layout=compact&langs_count=6&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img  height="180em" src="https://github-readme-stats-zeta-weld.vercel.app/api/top-langs/?username=IlnaraAckermann&layout=compact&langs_count=6" />
+</picture>
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
