@@ -1,28 +1,30 @@
-### Meu nome é Ilnara Ackermann, mãe de dois filhos, apaixonada por programação.
 
-**Habilidades**
+### 👋 Olá, eu sou Ilnara Ackermann! Mãe de dois filhos, e uma apaixonada por programação. 
 
-* Programação em HTML, CSS, Javascript, JAVA, Python, Kotlin, Bootstrap, Spring Boot Java, Angular e React
-* Conhecimento em bancos de dados relacionais e não relacionais
-* Experiência com Git, GitHub e outras ferramentas de controle de versão
-* Experiência com Agile e outras metodologias de desenvolvimento
-* Boas habilidades de comunicação e trabalho em equipe
+**Habilidades 🚀:**
 
-**Educação**
+- Linguagens de programação: HTML, CSS, Javascript, JAVA, Python, Kotlin.
+- Frameworks: Bootstrap, Spring Boot Java, Angular, React.
+- Bancos de dados: Relacionais e não relacionais.
+- Controle de versão: Git, GitHub e outras ferramentas.
+- Metodologias: Ágil e outras abordagens de desenvolvimento.
+- Habilidades interpessoais: Comunicação e trabalho em equipe.
 
-* Graduação em Administração de Empresas
-* Graduação em Sistemas de Informação (cursando)
-* Cursos da DIO, DevQuest e o curso Full Stack da RecodePro
+**Educação 📚:**
 
-**Interesses**
+- Graduação em Administração de Empresas.
+- Graduação em Sistemas de Informação (cursando).
+- Cursos: DIO, DevQuest e o curso Full Stack da RecodePro.
 
-* Programação
-* Desenvolvimento web
-* Desenvolvimento de jogos
-* Aprendizado de máquina
-* Inteligência Artificial
-* Leitura
-* Música
+**Interesses 🌟:**
+
+- Programação e desenvolvimento web.
+- Desenvolvimento de jogos 🎮.
+- Aprendizado de máquina e Inteligência Artificial 🤖.
+- Leitura 📖.
+- Música 🎶.
+
+Minha jornada é marcada pela busca constante de aprendizado e exploração no vasto universo da tecnologia. Estou sempre animada para enfrentar novos desafios e expandir minhas habilidades!
 
 <div>
 <picture>
