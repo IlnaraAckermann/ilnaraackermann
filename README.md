@@ -5,7 +5,7 @@
 
 - Linguagens de programação: HTML, CSS, Javascript, JAVA, Python, Kotlin.
 - Frameworks: Bootstrap, Spring Boot Java, Angular, React.
-- Bancos de dados: Relacionais e não relacionais.
+- Bancos de dados: SQL e NoSQL.
 - Controle de versão: Git, GitHub e outras ferramentas.
 - Metodologias: Ágil e outras abordagens de desenvolvimento.
 - Habilidades interpessoais: Comunicação e trabalho em equipe.
