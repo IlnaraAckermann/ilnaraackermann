@@ -26,6 +26,8 @@
 
 Minha jornada é marcada pela busca constante de aprendizado e exploração no vasto universo da tecnologia. Estou sempre animada para enfrentar novos desafios e expandir minhas habilidades!
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IlnaraAckermann&margin-w=15&theme=nord&no-frame=true&title=MultiLanguage,Repositories,Followers,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
 <picture>
 <source
